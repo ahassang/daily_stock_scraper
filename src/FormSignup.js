@@ -13,8 +13,7 @@ const FormSignup = ({ submitForm }) => {
         <div className='form-content-right'>
             <form onSubmit={handleSubmit} className='form' noValidate>
                 <h1>
-                    Get started with us today! Create your account by filling out the
-                    information below.
+                   Create your account here to see daily Crypto prices!
                 </h1>
                 <div className='form-inputs'>
                     <label className='form-label'>Username</label>
