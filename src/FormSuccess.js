@@ -6,7 +6,7 @@ const FormSuccess = () => {
     return (
         <div>
             <h1>
-                Please confirm your email! Enjoy our top 3 Crypto picks!
+                Please Confirm Your Email! Enjoy The Hottest Crypto Currencies On The Market!!
             </h1>
             <PageSuccess/>
         </div>
